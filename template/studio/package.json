@@ -1,13 +1,14 @@
 {
-  "name": "ecommerce",
+  "name": "sanity-ecommerce",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "package.json",
-  "author": "Rune Botten <rune@sanity.io>",
+  "author": "Sanity <hello@sanity.io>",
   "license": "UNLICENSED",
   "scripts": {
-    "start": "sanity start",
+    "build": "sanity build",
+    "dev": "sanity start",
     "test": "sanity check"
   },
   "keywords": [
