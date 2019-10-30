@@ -1,0 +1,28 @@
+{
+  "repository": {
+    "name": "dev-sanity-ecommerce",
+    "owner": "sanity-io",
+    "private": false
+  },
+  "sanity": {
+    "dataset": "production",
+    "projectId": "vp25zggz",
+    "projectTitle": "eCommerce"
+  },
+  "user": {
+    "displayName": "Rune Botten",
+    "profileImage": "",
+    "email": "rune@sanity.io"
+  },
+  "userInput": {},
+  "deployments": {
+    "studio": {
+      "url": "https://",
+      "providerName": "netlify",
+      "providerInfo": {
+        "buildHookId": "",
+        "siteId": ""
+      }
+    }
+  }
+}
