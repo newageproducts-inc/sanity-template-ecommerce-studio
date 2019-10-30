@@ -1,21 +1,11 @@
 # <#< sanity.projectTitle >#>
 
-_A template starter with a clean Studio._
-
-Deployed from [sanity.io/create](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-clean).
+Deployed from [sanity.io/create](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-ecommerce-studio).
 
 ## What you have
 
-- Structured content using [Sanity.io](https://www.sanity.io)
+- Structured content using [Sanity.io](https://www.sanity.io). See the `studio/` folder in this repository.
 - Global deployment on [Netlify](https://netlify.com)
-
-## Quick start
-
-1. Clone this repository
-2. `npm install` in the project root folder on local
-3. `npm run dev` to start the studio and frontend locally
-   - Your studio should be running on [http://localhost:3333](http://localhost:3333)
-4. `npm run build` to build to production locally
 
 ## Deploy changes
 
