@@ -4,7 +4,7 @@
   "description": "Template starter with Studio set up for eCommerce",
   "previewMedia": {
     "type": "image",
-    "src": "assets/studio.jpg",
+    "src": "assets/studio.png",
     "alt": "A preview image of Sanity Studio."
   },
   "technologies": [
@@ -32,7 +32,7 @@
       },
       "previewMedia": {
         "type": "image",
-        "src": "assets/studio.jpg",
+        "src": "assets/studio.png",
         "alt": "A preview image of the Sanity Studio."
       }
     }
