@@ -1,13 +1,13 @@
 {
   "repository": {
-    "name": "dev-sanity-ecommerce",
+    "name": "dev-sanity-ecommerce-studio",
     "owner": "sanity-io",
     "private": false
   },
   "sanity": {
     "dataset": "production",
     "projectId": "vp25zggz",
-    "projectTitle": "eCommerce"
+    "projectTitle": "ecommerce"
   },
   "user": {
     "displayName": "Rune Botten",

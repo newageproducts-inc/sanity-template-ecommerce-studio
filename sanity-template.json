@@ -1,7 +1,7 @@
 {
   "version": 0,
-  "title": "eCommerce",
-  "description": "Template starter with Studio set up for eCommerce",
+  "title": "Ecommerce Studio",
+  "description": "A Sanity Studio set up for ecommerce",
   "previewMedia": {
     "type": "image",
     "src": "assets/studio.png",
