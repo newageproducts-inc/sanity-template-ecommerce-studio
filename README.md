@@ -1,10 +1,8 @@
-# sanity-template-clean
+# sanity-template-ecommerce-studio
 
 _WORK IN PROGRESS_
 
-_Template starter with a clean studio._
-
-This template repo is used by Sanity.io to easily create deployed and configured projects through a web interface. You can test it out by [creating this project](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-clean).
+_Template starter with an ecommerce studio._
 
 The template contains a Sanity Studio. It can be deployed on Netlify.
 
